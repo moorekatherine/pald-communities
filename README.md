@@ -47,10 +47,27 @@ Included in "fig4f_data.csv"
           mvrnorm(20,mu=c(15,21),Sigma=diag(c(.1,.1))),
           mvrnorm(20,mu=c(15,17),Sigma=diag(c(.1,.1))),
           mvrnorm(20,mu=c(17.5,19),Sigma=diag(c(.1,.1))))  
+          
 Figure 5:    
 
 
-Figure 6:    
+Figure 6:   
+
+    https://github.com/genomicsclass/tissuesGeneExpression/tree/master/data  
+    load("/tissuesGeneExpression.Rdata") tissue.M<-t(e)tissue.gt<-tissue
 
 
 Figure 7:    
+
+
+
+Supplementary information also includes:
+
+Southern Oscillation Index data found in the astsa package in R.  
+https://cran.r-project.org/web/packages/astsa/astsa.pdf  
+library(astsa)data(soi)  
+
+Cholera data found in the cholera package in R.  
+https://CRAN.R-project.org/package=cholera
+The matrix containing pairwise walking distances was produced using functions therein.  
+Included in "cholera_dist.csv"

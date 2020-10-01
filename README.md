@@ -48,7 +48,11 @@ Included in "fig4f_data.csv"
           mvrnorm(20,mu=c(15,17),Sigma=diag(c(.1,.1))),
           mvrnorm(20,mu=c(17.5,19),Sigma=diag(c(.1,.1))))  
           
+          
 Figure 5:    
+  Included in "cognate.txt"   
+
+  I. Dyen, J. B. Kruskal, P. Black, An Indoeuropean classification: A lexicostatistical experiment.  Trans. Am. Phil.  Soc.82, iii-132 (1992)
 
 
 Figure 6:   

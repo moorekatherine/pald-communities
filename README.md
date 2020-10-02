@@ -64,8 +64,13 @@ Figure 6:
 load("/tissuesGeneExpression.Rdata"); tissue.M<-t(e);tissue.groundtruth<-tissue
 
 
-Figure 7:    
+Figure 7:  Pairwise dissimilarities are given by the cultural fixation index obtained from World Values Survey responses.  
 
+M. Muthukrishna, et al., Beyond western, educated, industrial, rich, and democratic (WEIRD) psychology: measuring and mapping scales of cultural and psychological distance. Psychol. Sci. 1, 24 (2020). 
+
+R. Inglehart et al, World Values Survey: All Rounds-Country-Pooled Datafile 1981-2014, (JD Systems Institute, Madrid 2014).  
+
+Included in "US_EU_India_China_Fst_100+.csv"
 
 Supplementary information also includes:
 

@@ -4,6 +4,8 @@ Partitioned Local Depths Data
 
 Data used in the paper "A social perspective on perceived distances reveals deep community structure" by Kenneth S. Berenhaut, Katherine E. Moore, and Ryan L. Melvin.
 
+**An R package for the implementation of PaLD may be found**: https://github.com/moorekatherine/pald
+
 
 
 Figure 1: Eight points with structure forming a diamond, line, and an isolated point.     
